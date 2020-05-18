@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/victor/Downloads/HM-16.9/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

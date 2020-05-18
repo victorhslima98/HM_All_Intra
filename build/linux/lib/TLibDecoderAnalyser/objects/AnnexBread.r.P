@@ -1,0 +1,23 @@
+objects/AnnexBread.r.o: \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.cpp \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.cpp :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :

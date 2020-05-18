@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :

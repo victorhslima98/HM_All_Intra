@@ -1,0 +1,35 @@
+objects/TComRom.d.o: \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.cpp \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComDataCU.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMotionInfo.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/Debug.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.cpp :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComDataCU.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMotionInfo.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComMv.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComSlice.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComList.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/Debug.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComPattern.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h :

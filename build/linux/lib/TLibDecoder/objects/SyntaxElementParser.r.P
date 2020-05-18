@@ -1,0 +1,15 @@
+objects/SyntaxElementParser.r.o: \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.h
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.cpp :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/victor/Downloads/HM-16.9/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/SyntaxElementParser.h :
